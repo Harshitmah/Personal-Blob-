@@ -1,5 +1,6 @@
 # Personal-Blog
-This is a Personal Blog post website using with HTML , CSS , Node.js , EJS & some other libraries. This is totaly depend on Backend.
+This is a Personal Blog post website using with HTML , CSS , Node.js , EJS & some other libraries.
+This is totaly depend on Backend.
 
 Copy all the code from this repository and install npm with this command.
 
