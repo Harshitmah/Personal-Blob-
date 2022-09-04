@@ -9,9 +9,10 @@ Copy all the code from this repository and install npm with this command.
      npm init
 
      npm install express body-parser nodemon loadash
-
-
-
+     
+ command in your console to run this web-app
+ 
+     nodemon app.js
 
 
 The Personal Blog Post contains several pages like home , contact , about and other hidden pages.
