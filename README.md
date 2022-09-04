@@ -3,9 +3,12 @@ This is a Personal Blog post website using with HTML , CSS , Node.js , EJS & som
 
 Copy all the code from this repository and install npm with this command.
 
-npm install
-npm init
-npm install express body-parser nodemon loadash
+
+     npm install
+
+     npm init
+
+     npm install express body-parser nodemon loadash
 
 
 
