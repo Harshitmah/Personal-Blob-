@@ -16,7 +16,10 @@ The Personal Blog Post contains several pages like home , contact , about and ot
 
 
 -->  try after url-
+
      /compose
+     
      /posts/TITLE_OF_POST
+     
      /post
 
