@@ -1,4 +1,4 @@
-# Personal-Blog
+# Daily-Journal
 This is a Personal Blog post website using with HTML , CSS , Node.js , EJS & some other libraries.
 
 This is totaly depend on Backend.
